@@ -5,3 +5,5 @@ class Department ():
     def getDeptName(self):
         return self.deptname
 
+    
+
